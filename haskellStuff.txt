@@ -1,0 +1,11 @@
+ghci
+
+:l <filename>
+:r
+
+http://zvon.org/other/haskell/Outputprelude/read_f.html
+http://hackage.haskell.org/package/base-4.9.0.0/docs/Prelude.html#v:lines
+http://hackage.haskell.org/package/base-4.9.0.0/docs/Prelude.html#v:words
+http://hackage.haskell.org/package/base-4.9.0.0/docs/Prelude.html#v:unwords
+http://zvon.org/other/haskell/Outputprelude/take_f.html
+http://hackage.haskell.org/package/base-4.9.0.0/docs/Prelude.html#v:drop
