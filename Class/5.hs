@@ -74,4 +74,3 @@ solve x = foldl roadStep ([],[]) x
 -- *Main> 
 
 
-
